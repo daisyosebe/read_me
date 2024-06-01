@@ -1,24 +1,24 @@
 # 09 Node.js Challenge: Professional README Generator
 
 
-## Read Me
+## README
 ## Description:
 ```
-For this application user is asked a series of questions that will help them build a professional README.md
+For this application, the user is asked a series of questions that will help them build a professional README.md
 
-User will be asked for title of their project
+User will be asked for the title of their project
 
 and this will be displayed as the title of the README
 
-Then there's a series of questions who's answers will be added to the sections title: Description, Installation, Usage, Contributing, and Tests
+Then there's a series of questions whose answers will be added to the sections titled: Description, Installation, Usage, Contributing, and Tests
 
-User is also able to choose a license for their application which then displays a badge near the top of the README and gives a link under license section for details on the chosen lisence. 
+User can also choose a license for their application which then displays a badge near the top of the README and gives a link under the license section for details on the selected license. 
 
-At the bottom of the read me theres a section for question, user is asked to enter github username, and email address. 
+At the bottom of the README there's a section for questions, the user is asked to enter a GitHub username and email address. 
 
-Those two pieces of infomation are used as contact information for the questions section. 
+Those two pieces of information are used as contact information for the questions section. 
 
-Included in the README is a table of contents with links to the different section of the README. 
+Included in the README; is a table of contents with links that take you to corresponding sections of the README when clicked. 
 
 ```
 
@@ -29,6 +29,7 @@ The following is a link to the GitHub Repo and a video showing the application b
 Repo Link: (https://github.com/daisyosebe/read_me.git)
 
 VIDEO:
+[Untitled_ Jun 1, 2024 1_20 AM.webm](https://github.com/daisyosebe/readme_gen/assets/145105156/37ffe0d2-07cd-48d4-8d48-bd23b6a6be56)
 
 
 
